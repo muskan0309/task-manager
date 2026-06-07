@@ -1,10 +1,10 @@
 #Task Manager
-A full stack task managment application build with Angular and .Net core
+A full stack task management application build with Angular and .Net core
 
 ##Tech Stack
--**Frontend:** Angular, Typescript
--**Backend:** .Net core, Web Api, C#
--**Database:** SQL Server with Entity Framework Core
+- **Frontend:** Angular, Typescript
+- **Backend:** .Net core, Web Api, C#
+- **Database:** SQL Server with Entity Framework Core
 
 ##Features
 -Create, View, Edit and Delete Tasks
